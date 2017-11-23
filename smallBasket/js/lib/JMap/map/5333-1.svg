@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg10879"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   viewBox="0 0 460 460"
+   sodipodi:docname="5333-1.svg">
+  <metadata
+     id="metadata10885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10883" />
+  <filter
+     x="-0.1"
+     y="0"
+     width="1.2"
+     height="1"
+     id="green">
+    <feFlood
+       flood-color="#008000"
+       id="feFlood6"
+       result="result1" />
+    <feComposite
+       in="SourceGraphic"
+       id="feComposite8"
+       in2="result1" />
+  </filter>
+  <filter
+     x="-0.1"
+     y="0"
+     width="1.2"
+     height="1"
+     id="orange">
+    <feFlood
+       flood-color="#ff7f2a"
+       id="feFlood11"
+       result="result1" />
+    <feComposite
+       in="SourceGraphic"
+       id="feComposite13"
+       in2="result1" />
+  </filter>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview10881"
+     showgrid="false"
+     inkscape:zoom="1.8391304"
+     inkscape:cx="230"
+     inkscape:cy="208.25059"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10879" />
+  <g
+     id="g10965"
+     transform="translate(217.07579,10.336942)">
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#dd66ff;stroke-width:0.48728815;stroke-opacity:0"
+       d="m 31.695109,152.24076 c -10.048357,0.78027 -17.467941,2.41335 -29.132609,3.07174 2.1279019,8.25718 2.8860873,17.08774 1.59375,25.5625 -4.46693622,9.00108 -4.7282895,20.69036 2.625,28.28125 3.580368,5.77186 0.9964231,13.45104 1.1395685,19.90013 C 4.6819252,249.15853 7.5228968,269.9109 7.8125,290.25 c 5.468026,1.25856 13.551862,-1.84219 17.40625,3.375 2.325894,3.5159 -0.139328,11.46785 6.09375,11.25 3.949151,-0.46314 11.653436,2.63594 11.635053,-3.64103 1.43404,-18.908 4.614869,-37.93362 1.989947,-56.85897 -3.262216,-11.07593 -8.557876,-22.14936 -6.1875,-34.125 1.717337,-8.29795 3.350559,-16.75698 2.5625,-25.375 1.778798,-4.94205 8.017316,-12.97917 2.1875,-17.34375 -3.650485,-2.02223 -10.209553,-2.51054 -9.375,-8.1875 -0.797631,-2.17402 1.494423,-7.22155 -2.429891,-7.10299 z"
+       id="path533323"
+       type="area" code="533323" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#dd66ff;stroke-width:0.48728815;stroke-opacity:0"
+       d="m 84.1875,211.46875 c -4.669928,2.77906 -6.496287,11.05497 -13.28125,9.65625 -7.560085,-0.18884 -14.646225,-3.625 -21.96875,-4.84375 -4.867591,0.89517 -10.086304,6.32476 -7.5625,11.53125 2.402321,8.43204 6.213639,15.65045 6.044761,25.24602 -0.197545,20.06106 -2.789165,36.55018 -3.57764,55.87898 0.483127,11.80177 -0.270335,28.05167 1.970379,39.625 4.325373,2.64018 10.005183,3.82785 15.0625,4.0625 4.819748,-2.14404 -1.906295,-9.58451 4,-11.21875 4.514312,-3.91456 10.335856,-5.50031 15.15625,-8.625 2.354993,-3.45642 0.712552,-9.52175 6.215361,-10.36743 7.727661,-4.19977 19.511309,-6.22594 21.222139,-16.57007 1.20221,-9.69382 -0.99146,-21.40691 8.15625,-27.90625 3.0113,-4.11797 9.25152,-0.96575 12.21875,-4.8125 1.37786,-6.74636 -4.76269,-12.4605 -6.28125,-18.875 -2.55763,-6.45917 0.38013,-14.77133 -3.78125,-20.53125 -6.29034,-2.20144 -7.88123,-11.68149 -15.03125,-11.875 -3.843595,1.88592 -4.154377,8.45904 -8.21875,9.40625 -4.028381,-5.93665 -0.911044,-17.20434 -9.3125,-19.875 L 84.5625,211.25 z"
+       id="path533325"
+       type="area" code="533325" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#dd66ff;stroke-width:0.48728815;stroke-opacity:0"
+       d="m 8.875,293.28125 c -2.5384464,12.53621 -7.2581191,24.47539 -12.8125,35.90625 -1.5359797,4.62799 0.4317133,9.10591 3.96875,12.125 2.0657942,4.89737 -2.1716299,10.53382 -5.375,14.09375 -3.416224,2.78204 -7.230261,-2.47018 -10.28125,-3.75 -3.70344,-1.93604 -4.928271,3.35837 -3.6875,5.96875 1.368521,8.17683 1.317749,16.99915 7.48605,23.307 7.8725822,9.7155 13.7637141,21.68443 12.53941944,34.53643 C 1.5718563,422.5952 -0.10494632,430.46259 2.1875,437.25 c 3.931137,2.79301 9.986755,1.7786 14.125,-0.0937 6.542493,-4.84511 1.761509,-13.31219 1.53125,-19.75 -0.0226,-3.47685 -2.407745,-10.44165 3.21875,-9.96875 4.246759,0.0598 7.830515,3.81956 12.28125,3.1875 1.526729,-5.60161 -7.188789,-6.43002 -7.5625,-10.9375 1.752755,-2.58759 8.875981,-0.27829 8.03125,-5.375 -0.470534,-4.93664 -5.128012,-10.97779 0.125,-14.9375 5.249194,-3.33728 4.694127,-8.98511 4.537431,-14.49904 0.4813,-5.32154 -1.441425,-11.39107 2.868819,-15.40721 3.650812,-8.51406 1.062688,-18.57468 1.484634,-27.65516 -1.133161,-4.66855 0.307959,-10.93434 -1.098766,-15.04837 -4.388099,-0.47368 -12.528797,1.68228 -15.885868,-2.48397 -0.748519,-4.74489 -1.119768,-12.24671 -7.6875,-12.375 -2.782917,0.32871 -8.6522648,-1.71756 -9.28125,1.375 z"
+       id="path533321"
+       type="area" code="533321" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#dd66ff;stroke-width:0.48728815;stroke-opacity:0"
+       d="m -48.3125,2.75 c -5.525559,0.2212424 -8.18139,6.8651825 -5.09375,11.21875 1.758492,4.930779 3.084541,11.957432 0.0625,16.46875 -3.747472,2.229188 -10.379875,-0.247027 -12.4375,3.40625 -0.748216,10.424112 -1.004294,21.15679 -6.25,30.34375 -0.822356,4.983221 5.75939,7.601982 8.0625,11.4375 6.818578,8.040263 3.702703,19.600876 6.572628,29.12469 2.605375,11.16659 4.287497,23.87132 12.364872,32.59406 3.664484,4.61171 10.298034,-0.0424 9.78125,-5.0625 -0.580613,-5.52843 2.348043,-18.05879 10.1875,-12.71875 3.401646,2.93035 8.125127,1.9031 11.8125,3.75 3.6141979,3.99287 8.5554346,6.48806 13.96875,6.40625 5.0749983,0.7184 3.0917229,7.38466 2,10.53125 -0.4635702,4.78507 -0.1907329,9.6422 -0.2365499,14.46875 9.9750279,-0.49588 20.8705559,-2.89315 30.7990499,-3.5 1.050544,-4.81917 -0.136771,-10.24299 0.737806,-14.84368 -0.0449,-9.26567 -0.07033,-19.62276 -5.894056,-27.15632 -3.017374,-6.92718 5.081728,-13.469372 1.25,-20.03125 C 23.927299,79.224237 19.053303,68.872468 17.658737,57.471548 16.220377,50.469105 14.088454,43.519953 10.90625,37.09375 3.8812169,36.378253 -3.5966897,35.656934 -10.40625,36.625 c -2.695042,2.690475 -5.383304,4.750519 -9.25,2.84375 -4.684338,-0.733658 -7.999817,8.398962 -12.4375,3.59375 C -35.869425,34.939974 -35.633196,25.612214 -39,17.3125 -39.898952,12.090305 -39.615995,3.6433116 -46.65625,2.78125 -47.205063,2.7128196 -47.761893,2.6851154 -48.3125,2.75 z"
+       id="path533324"
+       type="area" code="533324" />
+  </g>
+  <g
+     transform="matrix(0.98695514,0,0,1.0304851,309.4345,-772.85407)"
+     id="g533324" type="data" code="533324">
+    <text
+       id="text533324-lc"
+       x="-122.67094"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+    <text
+       id="text533324-cq"
+       x="-98.986"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+  </g>
+  <g
+     transform="matrix(0.98695514,0,0,1.0304851,338.10638,-605.27434)"
+     id="g533323" type="data" code="533323">
+    <text
+       id="text533323-lc"
+       x="-122.67094"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+    <text
+       id="text533323-cq"
+       x="-98.986"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+  </g>
+  <g
+     transform="matrix(0.98695514,0,0,1.0304851,405.20814,-604.87173)"
+     id="g533325" type="data" code="533325">
+    <text
+       id="text533325-lc"
+       x="-122.67094"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+    <text
+       id="text533325-cq"
+       x="-98.986"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+  </g>
+  <g
+     transform="matrix(0.98695514,0,0,1.0304851,332.6097,-508.7857)"
+     id="g533321" type="data" code="533321">
+    <text
+       id="text533321-lc"
+       x="-122.67094"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+    <text
+       id="text533321-cq"
+       x="-98.986"
+       y="849.59302"
+       style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+  </g>
+  <path
+     sodipodi:type="arc"
+     style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+     id="D533324"
+     sodipodi:cx="314.82144"
+     sodipodi:cy="114.75"
+     sodipodi:rx="3.0357144"
+     sodipodi:ry="3.0357144"
+     d="m 317.85716,114.75 a 3.0357144,3.0357144 0 1 1 -6.07143,0 3.0357144,3.0357144 0 1 1 6.07143,0 z"
+     transform="matrix(0.79797983,0,0,0.79797981,-59.447806,23.18185)" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="197.73761"
+     y="119.64288"
+     id="text533324"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5565"
+       x="197.73761"
+       y="119.64288"
+       style="font-size:12px;fill:#ffffff">贡山</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+     id="D533323"
+     sodipodi:cx="314.82144"
+     sodipodi:cy="114.75"
+     sodipodi:rx="3.0357144"
+     sodipodi:ry="3.0357144"
+     d="m 317.85716,114.75 a 3.0357144,3.0357144 0 1 1 -6.07143,0 3.0357144,3.0357144 0 1 1 6.07143,0 z"
+     transform="matrix(0.79797983,0,0,0.79797981,-1.0183016,192.45421)" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="219.75186"
+     y="288.36652"
+     id="text533323"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5565-8"
+       x="219.75186"
+       y="288.36652"
+       style="font-size:12px;fill:#ffffff">福贡</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+     id="D533325"
+     sodipodi:cx="314.82144"
+     sodipodi:cy="114.75"
+     sodipodi:rx="3.0357144"
+     sodipodi:ry="3.0357144"
+     d="m 317.85716,114.75 a 3.0357144,3.0357144 0 1 1 -6.07143,0 3.0357144,3.0357144 0 1 1 6.07143,0 z"
+     transform="matrix(0.79797983,0,0,0.79797981,36.015598,191.47964)" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="292.11414"
+     y="287.09744"
+     id="text533325"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5565-83"
+       x="292.11414"
+       y="287.09744"
+       style="font-size:12px;fill:#ffffff">兰坪</tspan></text>
+  <path
+     sodipodi:type="arc"
+     style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+     id="D533321"
+     sodipodi:cx="314.82144"
+     sodipodi:cy="114.75"
+     sodipodi:rx="3.0357144"
+     sodipodi:ry="3.0357144"
+     d="m 317.85716,114.75 a 3.0357144,3.0357144 0 1 1 -6.07143,0 3.0357144,3.0357144 0 1 1 6.07143,0 z"
+     transform="matrix(0.79797983,0,0,0.79797981,-8.8149117,289.18091)" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="211.5188"
+     y="384.06778"
+     id="text533321"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5565-5"
+       x="211.5188"
+       y="384.06778"
+       style="font-size:12px;fill:#ffffff">泸水</tspan></text>
+</svg>

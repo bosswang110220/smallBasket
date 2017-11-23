@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 460 460"
+   id="svg5709"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="4511-2.svg">
+  <defs
+     id="defs5711">
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.1"
+       y="0"
+       width="1.2"
+       height="1"
+       id="green">
+      <feFlood
+         flood-color="#008000"
+         id="feFlood6"
+         result="result1" />
+      <feComposite
+         in="SourceGraphic"
+         id="feComposite8"
+         in2="result1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       x="-0.1"
+       y="0"
+       width="1.2"
+       height="1"
+       id="orange">
+      <feFlood
+         flood-color="#ff7f2a"
+         id="feFlood11"
+         result="result1" />
+      <feComposite
+         in="SourceGraphic"
+         id="feComposite13"
+         in2="result1" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8391304"
+     inkscape:cx="230"
+     inkscape:cy="230"
+     inkscape:current-layer="layer4511"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata5714">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer4511"
+     transform="translate(9.243052,-598.29133)">
+    <g
+       id="g9836"
+       transform="translate(-436.99199,39.59798)"
+       style="fill:#e6e6e6">
+      <path
+         style="fill:#e6e6e6"
+         d="m 465.85903,793.69123 c -19.72203,12.92921 6.02163,29.91857 5.10823,45.89013 11.46584,7.86873 36.2131,18.72649 19.92727,34.65603 -5.40408,14.78471 -5.87106,31.36396 14.33855,33.29977 -6.01429,7.9748 -9.66302,25.65949 7.98493,20.83468 9.44182,12.91 36.28467,19.86377 20.23331,37.87033 6.27569,3.35096 19.23339,5.43057 9.53271,17.04286 5.93597,8.69696 1.97034,37.66537 19.0625,24.84367 0.99433,-12.04458 5.39633,-26.56205 17.87605,-26.38277 -6.25766,-17.72815 26.69254,-12.38458 24.81145,-33.33595 11.69595,-7.6687 17.26395,-24.32749 33.20557,-24.2614 3.02891,-20.14189 4.9172,-24.81072 16.35429,-40.8318 9.68079,-13.56085 -1.24034,-24.46211 7.28389,-43.08956 3.60964,-7.88792 -2.42255,-20.63526 -11.20319,-26.2493 -12.42208,-7.94225 -28.32161,-4.89817 -36.10484,-2.62409 -17.31136,5.05799 -33.31611,-5.0963 -45.82703,11.94045 -7.75096,-0.45422 -9.12293,-15.87938 -15.23994,-1.66555 -3.96293,16.52516 -29.19367,18.68853 -19.52958,-1.93901 7.63192,-12.12309 -5.49032,-35.3111 -15.00092,-15.45971 3.72122,24.73873 -27.84561,5.6406 -40.02828,-0.0699 -3.98931,-3.80487 -5.70201,-11.84847 -12.78497,-10.46891 z"
+         id="path451121"
+         type="area" code="451121" />
+      <path
+         style="fill:#e6e6e6"
+         d="m 789.82778,674.19123 c -13.601,2.43499 -30.79313,-2.53554 -34.56903,17.49868 0.37001,10.47926 -2.03461,16.51704 -13.58227,12.89564 -11.41293,14.59336 -0.7113,33.10118 16.76761,46.73299 14.68752,11.45481 3.78176,16.55964 -10.29434,18.48296 -3.37094,3.29437 -15.06092,12.14295 -18.2499,13.76659 -4.60442,2.34432 -12.57766,-2.37229 -12.55669,3.30401 0.0187,5.0609 11.12846,7.89318 15.70076,9.0233 4.5723,1.13012 9.54264,4.08711 12.65361,11.60039 5.02267,12.13024 -12.82534,25.56668 -3.93221,40.57044 -4.98669,5.60936 -31.77263,12.6469 -13.24297,20.26084 15.65983,3.42407 10.31163,24.07096 -1.17304,30.55372 -3.90554,20.77155 36.20551,18.76291 29.40725,43.58991 -0.13901,13.34471 2.84684,28.357 17.41501,21.65803 15.2117,14.21368 37.40094,1.27212 27.01354,-17.5487 15.21411,-2.37522 4.97528,-22.78385 22.55999,-17.26075 17.43377,-7.128 6.38666,-29.6409 0.77358,-40.66421 -9.28055,-12.25944 -6.35124,-29.60919 -6.09711,-44.27634 14.94412,3.64746 19.71103,-14.18001 30.75,-12.5 11.74892,-11.5454 27.16684,-28.30207 12.03125,-45.25 -5.86278,-9.64866 -21.12109,-14.96325 -8.28154,-27.58903 2.10565,-19.33201 -31.35381,-27.40732 -17.33863,-46.67013 -7.35242,-17.64999 22.42982,-24.94906 20.51524,-25.0049 -15.2335,-13.49215 -34.48129,-1.04042 -50.12232,-9.74303 -5.96992,1.266 -10.74914,-2.46304 -16.14775,-3.43041 z"
+         id="path451102"
+         type="area" code="451102" />
+      <path
+         style="fill:#e6e6e6"
+         d="m 712.31871,711.19533 c -10.15081,6.16078 -22.26207,14.44467 -33.54145,7.55785 -2.2489,-1.37311 -6.85343,-5.38181 -10.66202,-9.19039 -2.95124,2.014 0.0201,10.819 0.86755,16.13956 1.47,9.22937 0.36605,19.23704 7.26721,27.0789 2.80594,3.18842 -3.23623,6.41798 -5.25237,10.45172 -5.4964,10.9968 10.52924,17.70467 18.44742,23.98578 9.52032,7.55201 4.75689,22.66876 -1.39677,31.22586 -2.466,3.42915 -5.86529,5.29775 -9.53259,6.51954 -3.66731,1.22178 -19.90595,-9.1609 -23.44401,-8.31901 6.86532,7.6549 10.72204,19.56892 7.19683,24.66677 -5.72641,8.28104 -2.50853,21.5439 -2.51525,28.64647 -0.0117,12.31728 -9.24983,17.89882 -14.19076,28.13537 -4.84725,10.04247 -3.56046,22.04735 -8.84375,31.96875 -1.52758,12.99989 12.4005,21.97783 24.125,22.09375 13.20588,0.79397 28.67244,-8.86493 27.84375,-23.3125 -1.09827,-12.30009 -6.84406,-27.36097 2.625,-37.75 5.93467,-4.50385 16.098,-4.51917 18.20642,-13.10665 -1.1761,-18.52981 23.58128,-24.03575 30.95938,-29.91564 -1.46965,-3.57076 -3.64217,-9.48243 -0.0737,-19.81348 1.33781,-3.87304 9.27471,-16.45922 1.23516,-26.15174 -6.08184,-7.22373 -25.78371,-5.64694 -25.38978,-16.04374 0.20095,-5.30353 9.84857,-1.11559 14.4375,-4 7.66162,-4.81578 8.08242,-5.89831 18.00362,-13.61911 14.97519,-0.80606 18.84722,-7.52428 13.63561,-11.73446 -7.73028,-6.24488 -7.91867,-6.49375 -20.49952,-20.92606 -3.877,-4.44756 -9.68054,-19.03934 -16.54131,-17.56669 -5.16697,-0.34034 -11.51874,-1.32715 -13.7234,-6.80993 z"
+         id="path451103"
+         type="area" code="451103" />
+      <path
+         style="fill:#e6e6e6"
+         d="m 622.94434,679.96774 c -10.11762,14.65609 -27.73371,25.93571 -42.03413,34.44287 -3.50254,12.49249 -12.57573,24.99103 -0.37081,34.53886 10.33222,13.67427 6.13921,26.43555 -2.47966,41.17816 -13.3591,14.17915 9.74541,21.54395 24.03904,21.80719 15.58423,0.287 24.99939,-8.03554 41.99921,-1.62071 17.10485,6.45446 18.80669,7.0716 34.31819,14.01792 9.7348,-6.27473 16.8776,-20.28067 15.50237,-27.91005 -1.37523,-7.62937 -9.63182,-11.583 -19.36153,-19.15941 -15.88937,-12.37284 5.8707,-21.67819 1.01551,-24.25187 -3.39322,-1.7987 -5.71024,-11.95279 -7.64529,-27.0566 -0.67315,-5.25415 -2.44981,-10.81637 -1.0025,-16.19642 -3.11837,1.92504 -12.82052,5.76509 -17.57282,4.30255 -14.85516,-4.57175 -20.95632,-18.29568 -26.40758,-34.09249 z"
+         id="path451122"
+         type="area" code="451122" />
+      <path
+         style="fill:#e6e6e6"
+         d="m 650.60903,566.03498 c -13.31394,12.30862 -23.80492,31.13207 -44.2781,32.57532 -2.78375,18.10453 -5.75214,45.18031 17.1289,42.5109 0.52475,18.70548 -3.0289,40.04143 8.83003,57.7405 9.64477,14.39449 20.98855,18.97207 35.88778,9.62398 9.82788,7.10984 14.13369,17.08635 28.46777,9.39179 9.21001,-4.94395 -11.37794,-14.99206 1.58866,-23.56864 11.3397,-15.85024 6.38493,-30.77382 0.82639,-47.12602 4.07517,-12.2174 -1.98938,-20.68664 -4.62378,-30.76647 14.30547,-9.72592 5.90154,-16.00939 -4.96669,-20.14156 4.68259,-14.5244 -5.57576,-33.94449 -17.35465,-16.57916 -10.31829,1.77819 -15.20381,-9.0961 -21.50631,-13.66064 z"
+         id="path451123"
+         type="area" code="451123" />
+    </g>
+    <g
+       id="g451121" type="data" code="451121"
+       transform="matrix(0.98695514,0,0,1.0304851,206.89594,49.936642)">
+      <text
+         id="text451121-lc"
+         x="-122.67094"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+      <text
+         id="text451121-cq"
+         x="-98.986"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="93.852882"
+       y="906.81934"
+       id="text451121"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5691-1-3-8-7-7-7-8-7-0-7-71"
+         x="93.852882"
+         y="906.81934"
+         style="font-size:12px;fill:#ffffff">昭平</tspan></text>
+    <path
+       transform="matrix(0.79797983,0,0,0.79797981,-164.28073,811.06201)"
+       d="m 317.85716,114.75 c 0,1.67658 -1.35914,3.03571 -3.03572,3.03571 -1.67658,0 -3.03571,-1.35913 -3.03571,-3.03571 0,-1.67658 1.35913,-3.03571 3.03571,-3.03571 1.67658,0 3.03572,1.35913 3.03572,3.03571 z"
+       sodipodi:ry="3.0357144"
+       sodipodi:rx="3.0357144"
+       sodipodi:cy="114.75"
+       sodipodi:cx="314.82144"
+       id="D451121"
+       type="point" code="451121"
+       style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+       sodipodi:type="arc" />
+    <g
+       id="g451102" type="data" code="451102"
+       transform="matrix(0.98695514,0,0,1.0304851,437.22836,-23.217575)">
+      <text
+         id="text451102-lc"
+         x="-122.67094"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+      <text
+         id="text451102-cq"
+         x="-98.986"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="317.62543"
+       y="833.52771"
+       id="text451102"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5691-1-3-8-7-7-7-8-7-0-7-1"
+         x="317.62543"
+         y="833.52771"
+         style="font-size:12px;fill:#ffffff">八步区</tspan></text>
+    <path
+       transform="matrix(0.79797983,0,0,0.79797981,61.308064,738.19908)"
+       d="m 317.85716,114.75 c 0,1.67658 -1.35914,3.03571 -3.03572,3.03571 -1.67658,0 -3.03571,-1.35913 -3.03571,-3.03571 0,-1.67658 1.35913,-3.03571 3.03571,-3.03571 1.67658,0 3.03572,1.35913 3.03572,3.03571 z"
+       sodipodi:ry="3.0357144"
+       sodipodi:rx="3.0357144"
+       sodipodi:cy="114.75"
+       sodipodi:cx="314.82144"
+       id="D451102"
+       type="point" code="451102"
+       style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+       sodipodi:type="arc" />
+    <g
+       id="g451103" type="data" code="451103"
+       transform="matrix(0.98695514,0,0,1.0304851,371.4558,-92.1941)">
+      <text
+         id="text451103-lc"
+         x="-122.67094"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+      <text
+         id="text451103-cq"
+         x="-98.986"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="250.47704"
+       y="801.6424"
+       id="text451103"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5691-1-3-8-7-7-7-8-7-0-7-2"
+         x="250.47704"
+         y="801.6424"
+         style="font-size:12px;fill:#ffffff">平桂区</tspan></text>
+    <path
+       transform="matrix(0.79797983,0,0,0.79797981,17.092161,718.78457)"
+       d="m 317.85716,114.75 c 0,1.67658 -1.35914,3.03571 -3.03572,3.03571 -1.67658,0 -3.03571,-1.35913 -3.03571,-3.03571 0,-1.67658 1.35913,-3.03571 3.03571,-3.03571 1.67658,0 3.03572,1.35913 3.03572,3.03571 z"
+       sodipodi:ry="3.0357144"
+       sodipodi:rx="3.0357144"
+       sodipodi:cy="114.75"
+       sodipodi:cx="314.82144"
+       id="D451103"
+       type="point" code="451103"
+       style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+       sodipodi:type="arc" />
+    <g
+       id="g451122" type="data" code="451122"
+       transform="matrix(0.98695514,0,0,1.0304851,297.10894,-96.12944)">
+      <text
+         id="text451122-lc"
+         x="-122.67094"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+      <text
+         id="text451122-cq"
+         x="-98.986"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="180.8166"
+       y="796.1571"
+       id="text451122"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5691-1-3-8-7-7-7-8-7-0-7-7"
+         x="180.8166"
+         y="796.1571"
+         style="font-size:12px;fill:#ffffff">钟山</tspan></text>
+    <path
+       transform="matrix(0.79797983,0,0,0.79797981,-35.23374,700.75335)"
+       d="m 317.85716,114.75 c 0,1.67658 -1.35914,3.03571 -3.03572,3.03571 -1.67658,0 -3.03571,-1.35913 -3.03571,-3.03571 0,-1.67658 1.35913,-3.03571 3.03571,-3.03571 1.67658,0 3.03572,1.35913 3.03572,3.03571 z"
+       sodipodi:ry="3.0357144"
+       sodipodi:rx="3.0357144"
+       sodipodi:cy="114.75"
+       sodipodi:cx="314.82144"
+       id="D451122"
+       type="point" code="451122"
+       style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+       sodipodi:type="arc" />
+    <g
+       id="g451123" type="data" code="451123"
+       transform="matrix(0.98695514,0,0,1.0304851,316.52568,-201.07122)">
+      <text
+         id="text451123-lc"
+         x="-122.67094"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#green);font-family:Sans">22</text>
+      <text
+         id="text451123-cq"
+         x="-98.986"
+         y="849.59302"
+         style="font-size:12px;fill:#ffffff;filter:url(#orange);font-family:Sans">22</text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="214.37695"
+       y="693.95935"
+       id="text451123"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="214.37695"
+         y="693.95935"
+         style="font-size:12px;text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan10031">富川</tspan></text>
+    <path
+       transform="matrix(0.79797983,0,0,0.79797981,-36.647954,611.30433)"
+       d="m 317.85716,114.75 c 0,1.67658 -1.35914,3.03571 -3.03572,3.03571 -1.67658,0 -3.03571,-1.35913 -3.03571,-3.03571 0,-1.67658 1.35913,-3.03571 3.03571,-3.03571 1.67658,0 3.03572,1.35913 3.03572,3.03571 z"
+       sodipodi:ry="3.0357144"
+       sodipodi:rx="3.0357144"
+       sodipodi:cy="114.75"
+       sodipodi:cx="314.82144"
+       id="D451123"
+       type="point" code="451123"
+       style="fill:#d40000;fill-opacity:1;stroke:#dd66ff;stroke-opacity:0"
+       sodipodi:type="arc" />
+  </g>
+</svg>
